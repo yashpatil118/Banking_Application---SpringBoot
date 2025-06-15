@@ -5,7 +5,7 @@ A secure and modular banking system developed using **Java 17**, **Spring Boot**
 ![Java](https://img.shields.io/badge/Java-17-orange?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-3.x-brightgreen?logo=springboot)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 ---
 
